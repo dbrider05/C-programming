@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643647160 source:/home/dbrider/C programming/creating objects in different ways/main.cpp
+	<iostream>
+	<string>
+
