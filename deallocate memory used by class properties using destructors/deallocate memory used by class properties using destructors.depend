@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644138358 source:/home/dbrider/C programming/deallocate memory used by class properties using destructors/main.cpp
+	<iostream>
+	<string>
+
